@@ -1,0 +1,34 @@
+
+
+1. **tkinter**: It is a standard GUI (Graphical User Interface) library for Python. It provides various widgets and functions to create graphical applications.
+
+2. **datetime**: It is a module in Python that supplies classes for manipulating dates and times.
+
+3. **json**: It is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate.
+
+4. **Class**: In object-oriented programming, a class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods).
+
+5. **Constructor (`__init__`)**: It's a special method in Python that is automatically called when an object is created. It initializes the object's attributes.
+
+6. **Instance Variable**: These are variables that are bound to the instance of a class. Every object has its own copy of the instance variables.
+
+7. **Method**: A function that is associated with an object and operates on the data of the object. They are defined inside a class.
+
+8. **Label, Entry, Button, Frame**: These are tkinter widgets. Label is used to display text or an image. Entry is used to accept single-line text strings from the user. Button is used to display a button on the window. Frame is used as a container to hold and organize other widgets.
+
+9. **Listbox, Scrollbar**: These are widgets in tkinter. Listbox is used to display a list of options. Scrollbar is used to scroll through the options if the list is longer than the widget can display.
+
+10. **try-except block**: It is used for exception handling in Python. The code which can cause an exception is placed in the try block, and the handling of the exception is implemented in the except block.
+
+11. **with statement (Context Manager)**: It is used to wrap the execution of a block of code within the context of a particular object.
+
+12. **lambda function**: It is an anonymous function in Python that can have any number of arguments, but can only have one expression.
+
+13. **if-else statements, loops (for, while)**: These are control structures in Python. They are used for decision making and repetition of execution.
+
+14. **Dictionary**: It is a collection of data that is unordered, changeable, and indexed. In Python, dictionaries are written with curly brackets, and they have keys and values.
+
+15. **File Handling**: It is a way to store data in a file. The `open()` function is used to open a file, and it returns a file object, which is then used to perform various operations.
+
+16. **GUI Design Concepts**: The program implements several GUI design concepts like creating frames, grids, labels, buttons, entries, and various event handlers to manage user interactions effectively.
+
