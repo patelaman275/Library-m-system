@@ -1,3 +1,9 @@
 create a folder(mini_project) and
 download the file/images at the same location -"C:\Users\_____?_____\Downloads\mini_project\image.png"   
 also add a img with the img-name (srm-logo1.png) with your upi-qr-code (file-size <60kb_)
+
+
+how to run a program
+press-windows_key+R  > type cmd and run
+first install > pip install tkcalendar
+then  >  pip install ttkthemes
