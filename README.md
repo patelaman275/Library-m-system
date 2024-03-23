@@ -25,8 +25,11 @@ This project is a Library Management System with an added feature of an Admin Lo
 
     ```
     pip install tkcalendar
+    ```
+    ```
     pip install ttkthemes
     ```
+   
 
 ## Usage
 
