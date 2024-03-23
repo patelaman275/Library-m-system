@@ -19,9 +19,46 @@ This project is a Library Management System with an added feature of an Admin Lo
 - Tkinter library
 - tkcalendar library (Install using `pip install tkcalendar`)
 
+Your code seems to be a combination of a GUI-based Library Management System and an Admin Login system using Tkinter in Python. Here's a README file to explain how to use your code:
+
+---
+
+# Library Management System with Admin Login
+
+This project is a Library Management System with an added feature of an Admin Login system built using Tkinter in Python. It allows users to manage books, borrow and return them, and also provides an interface for admin login to access the system.
+
+## Features
+
+- **Admin Login**: Authenticate admin users before accessing the library management system.
+- **Borrow Books**: Users can borrow books by providing necessary details like book ID, name, student details, and issue date.
+- **Return Books**: Users can return borrowed books with book ID and return date.
+- **Add/Delete Books**: Admins can add new books to the library or delete existing ones.
+- **Display Available Books**: View all available books in the library.
+- **Search Books**: Search for specific books by their ID or name.
+- **Display Borrowing History**: Users can view their borrowing history.
+- **Show Last 3 Borrowing Histories**: View the last 3 borrowing histories.
+
+## Prerequisites
+
+- Python 3.x
+- Tkinter library
+- tkcalendar library (Install using `pip install tkcalendar`)
+
 ## Installation
 
-1. Install the required dependencies:
+1. Clone the repository to your local machine:
+
+    ```
+    git clone https://github.com/patelaman275/Library-m-system.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```
+    cd Library-m-system
+    ```
+
+3. Install the required dependencies:
 
     ```
     pip install tkcalendar
